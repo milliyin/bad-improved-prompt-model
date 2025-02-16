@@ -1,6 +1,6 @@
 # Bad Improved Prompt Model
 
-This repository presents a fine-tuned version of the Llama 3.2 3B model, specifically trained to enhance the quality of user prompts. By leveraging a dataset of poorly constructed prompts paired with their improved counterparts, the model aims to assist in refining vague or unclear prompts provided by users.
+The Bad Improved Prompt Model is designed to enhance user inputs for image generation models. By refining vague or unclear prompts, it helps produce more accurate and visually appealing images.
 
 ## Model
 
