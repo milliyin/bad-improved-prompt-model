@@ -8,7 +8,7 @@ The fine-tuned model is available on Hugging Face:
 
 - **Model Name**: [bad-improved-prompt-model](https://huggingface.co/milliyin/bad-improved-prompt-model)
 
-This model is developed by milliyin and is licensed under the Apache-2.0 license. It is fine-tuned from the model `unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit`.
+It is fine-tuned from the model `unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit`.
 
 ## Dataset
 
